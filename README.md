@@ -1,0 +1,2 @@
+# Tamers12345CHNSubs
+Tamers12345视频作品中文字幕Github repository.
