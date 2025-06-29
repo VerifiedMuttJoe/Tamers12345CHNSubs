@@ -12,6 +12,7 @@ Tamers12345视频作品中文字幕Github repository. 字幕出现3处以上修�
 
 或者直接在 Issue 区留言指出错误。
 
+欢迎直接使用本repo中的字幕压制上传，尽管[CC BY-NC-SA 4.0]要求署名，我并不介意。但请不要用作盈利。
 
 ## License
 
